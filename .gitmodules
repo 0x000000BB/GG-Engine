@@ -1,9 +1,0 @@
-[submodule "GG-Engine/Dependencies/glfw"]
-	path = GG-Engine/Dependencies/glfw
-	url = https://github.com/glfw/glfw.git
-[submodule "GG-Engine/Dependencies/glm"]
-	path = GG-Engine/Dependencies/glm
-	url = https://github.com/g-truc/glm.git
-[submodule "GG-Engine/Dependencies/glew"]
-	path = GG-Engine/Dependencies/glew
-	url = https://github.com/nigels-com/glew.git

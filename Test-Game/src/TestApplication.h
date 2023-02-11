@@ -1,5 +1,6 @@
 #pragma once
 #include <GGEngine.h>
+#include <iostream>
 
 class TestApplication : public GGE::Application {
 public:

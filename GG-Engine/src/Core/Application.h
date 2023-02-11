@@ -1,11 +1,11 @@
 #pragma once
-#include <iostream>
 
 namespace GGE {
 
 	class Application {
 	public:
 		void start();
+
 
 	private:
 		virtual void update(float dt) = 0;
